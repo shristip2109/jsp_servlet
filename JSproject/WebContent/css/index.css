@@ -1,0 +1,32 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+body{
+  
+  
+}
+.fun{
+  font-size: 450%;
+  width: 280px;
+  position: absolute;
+  top: 40%;
+  left: 60%;
+  transform: translate(-50%,-50%);
+  color: white;
+}
+.box{
+  width: 280px;
+  position: absolute;
+  top: 75%;
+  left: 60%;
+  transform: translate(-50%,-50%);
+  color: white;
+}
+.btn{
+  width: 100%;
+  border: 2px solid white;
+  color: white;
+  padding: 5px;
+  font-size: 21px;
+  cursor: pointer;
+  margin: 12px 0;
+}
+

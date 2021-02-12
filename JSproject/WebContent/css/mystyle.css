@@ -1,0 +1,15 @@
+body{
+	
+}
+
+.primary-background {
+	background: #1a237e !important;
+}
+
+.jumbotron {
+	background-color: transparent !important;
+}
+
+.container {
+	background-color: transparent !important;
+}
